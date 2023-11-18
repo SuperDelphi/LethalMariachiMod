@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# Mariachi Mod
+A mod that adds Tonio, the most beloved mariachi hoarder bug, to your games (the result of a private joke between friends).
